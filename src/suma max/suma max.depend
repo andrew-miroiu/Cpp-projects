@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604298820 source:f:\info liceu\c++\suma max\main.cpp
+	<iostream>
+	<fstream>
+

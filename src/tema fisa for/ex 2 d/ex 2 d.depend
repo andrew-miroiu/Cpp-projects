@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610879294 source:f:\info liceu\c++ andrei scoala\tema fisa for\ex 2 d\main.cpp
+	<iostream>
+	<cstdio>
+	<math.h>
+

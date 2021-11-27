@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603364793 source:f:\info liceu\asa de inceput\main.cpp
+	<iostream>
+	<fstream>
+

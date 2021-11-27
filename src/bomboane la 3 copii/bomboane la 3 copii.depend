@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603447496 source:f:\info liceu\c++\bomboane la 3 copii\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637562411 source:f:\info liceu\c++ andrei scoala\siruri de caractere in prezent am ceva cu profa\vocale intre consoale\main.cpp
+	<iostream>
+	<string.h>
+	<cstring>
+	<cctype>
+
